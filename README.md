@@ -1,4 +1,4 @@
-# Features 
+<img width="770" height="773" alt="image" src="https://github.com/user-attachments/assets/ba0db746-cfff-42fb-a107-850d72db651e" /># Features 
 VB Features:
 
 - ISO functions
@@ -61,6 +61,24 @@ C:\Dive:intall * %USERNAME% {*} "LINK"
 echo off
 ```
 
+# Software's
+*Video editors(in VB):*
+- Infosoft Cut Pro Free
+- Infosoft Prode editor
+- Infosoft Motion Graphics
+*Virtual Machines*
+- Ocale NVMware (build by Infosoft)
+- VB language
+- Infosoft sandboxed
+*Operating systems*
+- Panels(Old - Ocale)
+- LumaOS(Old - Empire Studios)
+- VBOS
+
+All of the software can be downloaded with the following infosoft language:
+```infosoftlng
+infosoft--loader:["SOFTWARENAME"], "Link": Download
+```
 
 # Rights + Disclaimer
 

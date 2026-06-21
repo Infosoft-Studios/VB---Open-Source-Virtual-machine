@@ -19,7 +19,53 @@ git clone https://github.com
 cd VB---Open-Source-Virtual-machine
 # Step 3: Run the install command (Choose ONE from the list below)
 
+```
+
+Python
+```bash
+pip install
+```
+
+```bash
+make && sudo make install
+```
+
+
 since we have the function, here is then the note: there are build in functions, VB VM is a repo of Infosoft's Virtualization platforms, so VB is not VM itself, it has Infosoft VM, but they all contain the VB Bash Language:
+
 ```bash
 infosoft--amd-- create: vm, "YourVMName", "Version", Filename
+```
+# VB language overview
 
+The VB language, has a lot of type syntax's, for example, if you are creating a VM, then you can write the following script:
+
+```bash
+infosoft--[CPU_Manufacture]-- create: vm, "YourVMName", "Version", Filename
+```
+
+If you want to initialize dockerfiles:
+
+```bash
+infosoft--[CPU_Manufacture]-- dockerfile: init: "Link", "Name"
+```
+if you want to get the ISO binary code:
+
+```bash
+infosoft--[.]iso-- bin: rewrite
+```
+
+# Install Command(for Panels OS or lumaOS users)
+```bash
+C:\Dive:intall * %USERNAME% {*} "LINK"
+echo off
+```
+
+
+# Rights + Disclaimer
+
+**Right:**
+Infosoft Studios, Ocale-Prime 
+
+**Disclaimer**
+Please use the software with cautious.

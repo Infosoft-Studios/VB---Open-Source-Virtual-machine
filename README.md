@@ -1,4 +1,3 @@
-<img width="770" height="773" alt="image" src="https://github.com/user-attachments/assets/ba0db746-cfff-42fb-a107-850d72db651e" /># Features 
 VB Features:
 
 - ISO functions

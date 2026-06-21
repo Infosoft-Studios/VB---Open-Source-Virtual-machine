@@ -65,11 +65,11 @@ echo off
 - Infosoft Cut Pro Free
 - Infosoft Prode editor
 - Infosoft Motion Graphics
-*Virtual Machines*
+- *VM's:*
 - Ocale NVMware (build by Infosoft)
 - VB language
 - Infosoft sandboxed
-*Operating systems*
+- *Operating systems:*
 - Panels(Old - Ocale)
 - LumaOS(Old - Empire Studios)
 - VBOS

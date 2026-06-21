@@ -1,0 +1,6 @@
+[Catogory: ERRMSG]
+{
+	[@] GetSmsData: 0x003005 : override 0x004f
+	// end, it should be the approx data
+}
+

@@ -1,0 +1,15 @@
+[VERSION]
+Sgnuture = "$Windows NT$"
+[DEFAULTINSTALL]
+[Corporation] = Infosoft Corporation, NASM, AMD
+[Infosoft Corporation]
+%cpudatamachine% = amd_ryzen, x86_64
+[amd_ryzen]
+CopyFiles = amd_ryzen_copyfiles
+[amd_ryzen_copyfiles]
+cpudatamachine.sys
+[x86_64]
+CopyFiles = x86_64_copyfiles
+[x86_64_copyfiles]
+cpudatamachine.sys
+

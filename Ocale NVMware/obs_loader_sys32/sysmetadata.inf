@@ -1,0 +1,8 @@
+[VERSION]
+Signature = "Ocale NVMware, national virtual machineware"
+Version = "1.0"
+
+[MANUFACTURE]
+%designer% = ocale_Corporation, Infosoft_corporation
+
+[Loader] = "system"

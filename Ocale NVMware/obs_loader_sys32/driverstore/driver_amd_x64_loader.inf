@@ -1,0 +1,8 @@
+[VERSION]
+Signuture = "$AMD SOFTWARE$"
+GetDriver = C:\Windows\System32\DriverStore
+
+[CONFIG]
+UserAccount = GetDriver
+
+; done

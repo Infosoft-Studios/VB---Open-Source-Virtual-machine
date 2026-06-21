@@ -1,0 +1,22 @@
+#include <windows.h>
+using namespace std;
+
+
+namespace local_boolean
+{
+	CREATELOCALMEMORYSCREEN creatlocalmemoscreen;
+	virtual void system1() {CREATEADDITIONALSYSTEm additional; additional.system::load();};
+	virtual void system2() {CREATEADDITIONALSYSTEm additional; additional.system::load();};
+	virtual void system3() {CREATEADDITIONALSYSTEm additional; additional.system::load();};
+
+	std::cout << "Virtual Machine Status[NVME]\n" << system1() << " " << system2() << " " << system3() << std::endl;
+};
+
+int PRINTSTATUSCODE()
+{
+	local_boolean local;
+	local.system1();
+	local.system2();
+	local.system3();
+	return 0;
+};

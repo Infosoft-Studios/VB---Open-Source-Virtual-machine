@@ -1,0 +1,13 @@
+[VERSION]
+Signuture= "$Windows NT$"
+Class= System
+LocalGuid= {4ggh6gGjgjg7jkGhhgT7Hjugh7JJKKkkh90hkkkhY}
+
+[TYPE]
+SystemClass= Class 
+SystemVersion= Home /pro ; depends on the Pro version(.wss file required)
+SystemType = SystemVersion /numberversion ; which cannot replace 7 - 11 
+
+
+[ENDPOINT]
+SystemData = 100000000000000000000 ; or [> 1TB]

@@ -1,0 +1,11 @@
+CREATE:
+	@= SystemType: driverstore ; drivers
+	@= SystemGig: 100000000000000000000 ; or [> 1TB]
+	@= SystemVerion: Home OR Pro
+
+CREATE TABLE:
+	@= SystemPointEntry: bootmgr.dll
+	@= Driverstore_pol: driverdata* SystemGig
+
+CREATE:
+	@= NULL: 0 ; end

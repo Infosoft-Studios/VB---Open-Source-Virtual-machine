@@ -1,0 +1,17 @@
+Windows Registry Editor Version 5.00
+
+; -----------------------------
+; SnailScript RawMode (.ssrm)
+; -----------------------------
+[HKEY_CLASSES_ROOT\.nrvm]
+@="nvirtual.machine"
+
+[HKEY_CLASSES_ROOT\nvirtual.machine]
+@="NVM Virtual Machine"
+
+[HKEY_CLASSES_ROOT\nvirtual.machine\DefaultIcon]
+@="C:\\Users\\hemku\\Desktop\\Ocale NVMware\\obs_loader_sys32\\favicon (7).ico"
+
+[HKEY_CLASSES_ROOT\nvirtual.machine\shell\open\command]
+@="\"C:\\Users\\hemku\\Desktop\\Ocale NVMware\\obs_loader_sys32\\Vboxmgr.exe\" \"%1\""
+

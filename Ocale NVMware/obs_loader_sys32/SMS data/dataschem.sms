@@ -1,0 +1,11 @@
+[Category: CriticalDataPoints]
+{
+	[@] rewritecode = 0x003000203f  // global
+	dvdcodeintsall = [@] rewritecode // local to global
+	[@CDProp]
+	{
+		#0x3004wf
+	}
+}
+
+## 0x3fd30 = [@] rewrtecode // end the code[1]

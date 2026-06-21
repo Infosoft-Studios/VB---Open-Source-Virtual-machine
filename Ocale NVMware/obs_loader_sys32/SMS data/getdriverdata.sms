@@ -1,0 +1,14 @@
+[Catogory: Drivers]
+{
+	#DriverIndependecy = 0x34005f // *
+	[@] Driver = "C:\User\User-Name\Desktop\Ocale NVMware\obs_loader_sys32\driverstore"
+
+	[@FUNCTION Prop]
+	{
+		[DriverIndependecy] = "the System should load the drivers" // which the string has a value of 0x34005f(*)
+		[GetNtOSKrnl] = "C:\Windows\System32\ntoskrnl.exe" // needs to verify if the kernel is there
+		[Driver] = "C:\Windows\System32\driverstore"
+	}
+
+	\\ end
+}

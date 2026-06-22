@@ -79,6 +79,18 @@ All of the software can be downloaded with the following infosoft language:
 infosoft--loader:["SOFTWARENAME"], "Link": Download
 ```
 
+# Requirements(Written in Infosoft script)
+You need specific requirements, depending on your ram, and specific needs. If your computer is new, then you can skip this part, and you can download Ocale NVMware uptop Video editors, Sandboxed systems(rest of the VM) require an specific ammount of Hardware intuition, for that you need the following requirement, feel free to get an higher version:
+
+AMD Ryzen 7 5825U with Radeon Graphics, 2000 Mhz, 8 Core(s), 16 Logical Processor(s) 
+x64 -> x86 for other applications(Infosoft Cut Pro or Infosoft sandboxed)
+
+if you want to bypass it, you can run the command, which restricts some performence systems for different applications from Infosoft:
+```bash
+Infosoft--requirement[bypass:true]: [Your-CPU-Information]-[Your-GPU-Information]-[RAM]-[PSU]-[OS]-[MOTHERBOARD]
+```
+thank you!
+
 # Rights + Disclaimer
 
 **Right:**

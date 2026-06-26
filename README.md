@@ -73,6 +73,15 @@ echo off
 - Panels(Old - Ocale)
 - LumaOS(Old - Empire Studios)
 - VBOS
+- *Infosoft Games:*
+- Fire Asthema
+- Lord of Kings
+- Fire hell
+
+install Fire asthema for x32 bit systems:
+```infosoftlng
+infosoft--loader:["SOFTWARENAME"], "Link": Download--x32{*}override
+```
 
 All of the software can be downloaded with the following infosoft language:
 ```infosoftlng

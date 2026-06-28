@@ -100,6 +100,19 @@ Infosoft--requirement[bypass:true]: [Your-CPU-Information]-[Your-GPU-Information
 ```
 thank you!
 
+## Project Status
+
+VB is currently under active development.
+
+Many core components (installer, VM system, app integration) are being developed in parallel.
+
+Due to the ecosystem scale:
+- updates are released less frequently
+- but include large system-wide changes
+
+⚠ Full installation and deployment will be available starting from version 1.3.
+``
+
 # Rights + Disclaimer
 
 **Right:**

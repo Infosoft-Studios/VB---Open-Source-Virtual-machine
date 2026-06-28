@@ -111,7 +111,6 @@ Due to the ecosystem scale:
 - but include large system-wide changes
 
 ⚠ Full installation and deployment will be available starting from version 1.3.
-``
 
 # Rights + Disclaimer
 

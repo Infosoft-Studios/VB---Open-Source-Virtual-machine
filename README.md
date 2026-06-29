@@ -1,3 +1,4 @@
+# VB introduction
 VB Features:
 
 - ISO functions
@@ -115,7 +116,11 @@ Due to the ecosystem scale:
 # Rights + Disclaimer
 
 **Right:**
-Infosoft Studios, Ocale-Prime 
+(C) 2020 -> 2026 Infosoft Studios, Ocale-Prime(2025 -> 2026)
 
 **Disclaimer**
-Please use the software with cautious.
+Please use the software with cautious. Any System failure or problems won't be our problem, Please accept to the HOC license digital 
+Any Stereo infection caused by malware or System curruption(e.g. Data loss), can be backed up with an Microsoft or Apple or Google account.
+
+*Code disclaimer*
+Running individuel codes by themself is not **recommended, because it can cause system curruption(based on some code) or data loss**. We recommend trying individuel code, on the Infosoft Private Xarobot servers or IX Servers. **Please do not run the code in a VM**. Infosoft sandbxoed utility is a tool that you can *only run specific codes in Infosoft Sandboxed or much powerful type Ocale NVMware*. This ensures that you code run is safe, and does not currupt any other types(VBOX or vmware or QEMU). Thank you very much for understanding!

@@ -1,0 +1,7 @@
+[Version]
+Signuture = "$ Windows NT"
+Class = "type"
+VMData = 0x0043xd3d
+
+[return]
+DriverPart = "%drivername%"
